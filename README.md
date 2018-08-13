@@ -23,7 +23,7 @@
   - download tesseract-ocr-setup-3.05.02-20180621.exe
   - Install tesseract-ocr-setup-3.05.02-20180621.exe
   - go to pytesseract.py in python libraly
-  - Change tesseract_cmd to path of tesseract.exe
+  - Change path of tesseract_cmd to tesseract.exe
   
 ## How to use conv_ocr_v3
 main
