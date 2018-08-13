@@ -1,7 +1,7 @@
 # Image segmentation manual
 # for conv_ocr_v3
 
-## Libraly
+## Library
 - Use pip install
   - cv2 (pip install opencv-python)
   - numpy (pip install numpy)
