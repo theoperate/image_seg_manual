@@ -29,22 +29,22 @@
 ## How to use conv_ocr_v3
 main
 
-path_to_image = 'path_to_image'
+    path_to_image = 'path_to_image'
 
-image = cv2.imread(path_to_image)
+    image = cv2.imread(path_to_image)
 
-img_list, bnd_list = cha_segment(image)
+    img_list, bnd_list = cha_segment(image)
 
-num = 0
+    num = 0
 
-for i in img_list:
+    for i in img_list:
 
-    for data in bnd_list[num]:
+        for data in bnd_list[num]:
   
-        print(data[0],data[1],data[2],data[3])
+            print(data[0],data[1],data[2],data[3])
     
-    cv2.imshow('marked areas', j)
+        cv2.imshow('marked areas', j)
   
-    cv2.waitKey(0)
+        cv2.waitKey(0)
   
-    num += 1
+        num += 1
