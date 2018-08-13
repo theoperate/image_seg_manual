@@ -11,7 +11,7 @@
   - pytesseract (pip install pytesseract)
 
 ## How install tesseract (for ubuntu)
-- use terminal
+- Use terminal
   - sudo apt update sudo apt install tesseract-ocr
   - sudo apt-get install tesseract-ocr-all
 - Or use this guide
@@ -20,13 +20,13 @@
 ## How install tesseract (for window)
 - Use this website
   - https://github.com/UB-Mannheim/tesseract/wiki
-  - download tesseract-ocr-setup-3.05.02-20180621.exe
+  - Download tesseract-ocr-setup-3.05.02-20180621.exe
   - Install tesseract-ocr-setup-3.05.02-20180621.exe
   - go to pytesseract.py in python libraly
   - Change path of tesseract_cmd to tesseract.exe
   
 ## How to use conv_ocr_v3
-main
+Main
 
     path_to_image = 'path_to_image'
 
