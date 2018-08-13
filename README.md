@@ -39,12 +39,12 @@ num = 0
 
 for i in img_list:
 
-  for data in bnd_list[num]:
+    for data in bnd_list[num]:
   
-    print(data[0],data[1],data[2],data[3])
+        print(data[0],data[1],data[2],data[3])
     
-  cv2.imshow('marked areas', j)
+    cv2.imshow('marked areas', j)
   
-  cv2.waitKey(0)
+    cv2.waitKey(0)
   
-  num += 1
+    num += 1
