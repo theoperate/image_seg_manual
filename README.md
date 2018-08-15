@@ -3,12 +3,24 @@
 
 ## Library
 - Use pip install
-  - cv2 (pip install opencv-python)
-  - numpy (pip install numpy)
-  - collections (build in module, Don't need to install)
-  - imutils (pip install imutils)
-  - matplotlib (pip install matplotlib)
-  - pytesseract (pip install pytesseract)
+  - cv2 
+   
+        pip install opencv-python
+  - numpy 
+  
+        pip install numpy
+  - collections 
+  
+        build in module, Don't need to install
+  - imutils 
+  
+        pip install imutils
+  - matplotlib 
+  
+        pip install matplotlib
+  - pytesseract 
+  
+        pip install pytesseract
 
 ## How install tesseract (for ubuntu)
 - Use terminal
