@@ -37,7 +37,7 @@ Image segmentation install environment and manual
   - Download tesseract-ocr-setup-3.05.02-20180621.exe
   - Install tesseract-ocr-setup-3.05.02-20180621.exe
   - Don't forget choose thai language in select option of tesseract-ocr install
-  - go to pytesseract.py in python libraly
+  - Go to pytesseract.py in python libraly
   - Change path of tesseract_cmd to tesseract.exe
   
 ## How to use conv_ocr_v3
