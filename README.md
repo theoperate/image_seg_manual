@@ -36,6 +36,7 @@ Image segmentation install environment and manual
   - https://github.com/UB-Mannheim/tesseract/wiki
   - Download tesseract-ocr-setup-3.05.02-20180621.exe
   - Install tesseract-ocr-setup-3.05.02-20180621.exe
+  - Don't forget choose thai language in select option of tesseract-ocr install
   - go to pytesseract.py in python libraly
   - Change path of tesseract_cmd to tesseract.exe
   
